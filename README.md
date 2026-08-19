@@ -1,4 +1,4 @@
-# sarathi
+# Sarathi
 
 A new Flutter project.
 
